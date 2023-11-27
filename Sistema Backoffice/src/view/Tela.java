@@ -708,4 +708,3 @@ public class Tela extends JFrame {
 			}
 		}
  }
-
